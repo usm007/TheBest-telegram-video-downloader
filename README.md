@@ -25,3 +25,62 @@
 
 ## 🖥 Preview
 
+██╗   ██╗███████╗███╗   ███╗ ██████╗  ██████╗ ███████╗
+██║   ██║██╔════╝████╗ ████║██╔═████╗██╔═████╗╚════██║
+██║   ██║███████╗██╔████╔██║██║██╔██║██║██╔██║    ██╔╝
+██║   ██║╚════██║██║╚██╔╝██║████╔╝██║████╔╝██║   ██╔╝ 
+╚██████╔╝███████║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝   ██║  
+ ╚═════╝ ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝    ╚═╝  
+                                                      
+    ★ TELEGRAM VIDEO DOWNLOADER (CLI Edition) ★
+
+
+
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/telegram-video-downloader.git
+cd telegram-video-downloader
+
+## Install Required Libraries
+pip install telethon colorama
+
+### Run the Script
+python Downloader_V2.py
+
+
+🟡 On first launch, you'll be asked to enter:
+
+API ID
+
+API Hash
+
+Phone number (with country code)
+
+A .session file and credentials.txt will be saved for future use.
+
+
+
+## Folder Structure
+telegram-video-downloader/
+├── Downloader_V2.py         # Main script
+├── credentials.txt          # Saved API credentials
+├── crash_log_*.txt          # Crash logs (auto-created)
+├── downloads/               # Folder for downloaded videos
+└── README.md
+
+### 🙌 Credits
+🧠 Built with Telethon
+
+🎨 UI styling with Colorama
+
+💻 Developed by @usm007
+
+
+
+
+### GUI coming soon
