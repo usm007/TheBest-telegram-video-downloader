@@ -1,18 +1,3 @@
-Sure! Below is everything you can **copy and paste directly** into your GitHub project as a `README.md` file — **no editing required except adding your GitHub username** where noted.
-
----
-
-### 📄 `README.md` (Copy & Paste Version)
-
-```markdown
-<h1 align="center">🎥 Telegram Video Downloader (CLI Edition)</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-orange?style=flat-square" />
-</p>
-
 > ⚡ A powerful, terminal-based Telegram video downloader built with Python & Telethon.  
 > Features channel/group selection, progress bars, crash logs, and safe login.
 
